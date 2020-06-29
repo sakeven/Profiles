@@ -5,7 +5,7 @@
 [Rule]
 
 //SOME MCN INFO MAY BE USEFUL
-//URL-REGEX,https://www.zhihu.com/api/v4/mcn/,REJECT
+URL-REGEX,https://www.zhihu.com/api/v4/mcn/,REJECT
 
 DOMAIN,appcloud2.zhihu.com,REJECT
 
